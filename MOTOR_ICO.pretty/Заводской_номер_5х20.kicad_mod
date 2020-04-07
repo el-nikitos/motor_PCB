@@ -1,0 +1,13 @@
+(module Заводской_номер_5х20 (layer F.Cu) (tedit 5B57156E)
+  (fp_text reference REF** (at 8 -3.5) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value Заводской_номер_5х20 (at 0.5 3.5) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_line (start -10 -2.5) (end -10 2.5) (layer F.SilkS) (width 0.3))
+  (fp_line (start -10 2.5) (end 10 2.5) (layer F.SilkS) (width 0.3))
+  (fp_line (start 10 2.5) (end 10 -2.5) (layer F.SilkS) (width 0.3))
+  (fp_line (start 10 -2.5) (end -10 -2.5) (layer F.SilkS) (width 0.3))
+  (pad "" smd rect (at 0 0) (size 19.3 4.3) (layers F.Mask))
+)

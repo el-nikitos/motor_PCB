@@ -1,0 +1,2436 @@
+#VRML V2.0 utf8
+
+
+Shape {
+	appearance DEF A2896785834 Appearance {
+		material Material {
+			diffuseColor 0 0 0
+			specularColor 0 0 0
+			emissiveColor 0 0 0
+			ambientIntensity 0.8
+			shininess 0.2
+			transparency 0
+		}
+	}
+	geometry IndexedFaceSet {
+		creaseAngle 2
+		coord Coordinate {
+			point [
+				0 0 0,
+				2.54 3.1106e-016 3.1106e-016,
+				2.54 2.54 1.5553e-016,
+				-1.5553e-016 2.54 -1.5553e-016,
+				1.58 1.58 9.67471e-017,
+				1.58 0.96 1.34711e-016,
+				0.96 0.96 5.8783e-017,
+				0.96 1.58 2.0819e-017
+			]
+		}
+		normal Normal {
+			vector [
+				1.22465e-016 -6.12323e-017 -1,
+				1.22465e-016 -6.12323e-017 -1,
+				1.22465e-016 -6.12323e-017 -1,
+				1.22465e-016 -6.12323e-017 -1,
+				1.22465e-016 -6.12323e-017 -1,
+				1.22465e-016 -6.12323e-017 -1,
+				1.22465e-016 -6.12323e-017 -1,
+				1.22465e-016 -6.12323e-017 -1
+			]
+		}
+		coordIndex [
+			7,	0,	3,	-1,
+			4,	2,	1,	-1,
+			3,	4,	7,	-1,
+			1,	6,	5,	-1,
+			6,	0,	7,	-1,
+			2,	4,	3,	-1,
+			6,	1,	0,	-1,
+			5,	4,	1,	-1
+		]
+	}
+}
+Shape {
+	appearance DEF A1796202406 Appearance {
+		material Material {
+			diffuseColor 0.8 0.67451 0
+			specularColor 0.4 0.337255 0
+			emissiveColor 0.5 0.421569 0
+			ambientIntensity 0.8
+			shininess 0.2
+			transparency 0
+		}
+	}
+	geometry IndexedFaceSet {
+		creaseAngle 2
+		coord Coordinate {
+			point [
+				0.96 0.96 -2.9,
+				1.58 0.96 -2.9,
+				1.58 0.96 1.34711e-016,
+				0.96 0.96 5.8783e-017
+			]
+		}
+		normal Normal {
+			vector [
+				1.22465e-016 -1 6.12323e-017,
+				1.22465e-016 -1 6.12323e-017,
+				1.22465e-016 -1 6.12323e-017,
+				1.22465e-016 -1 6.12323e-017
+			]
+		}
+		coordIndex [
+			3,	0,	1,	-1,
+			2,	3,	1,	-1
+		]
+	}
+}
+Shape {
+	appearance DEF A1150857875 Appearance {
+		material Material {
+			diffuseColor 0.8 0.67451 0
+			specularColor 0.4 0.337255 0
+			emissiveColor 0.5 0.421569 0
+			ambientIntensity 0.8
+			shininess 0.2
+			transparency 0
+		}
+	}
+	geometry IndexedFaceSet {
+		creaseAngle 2
+		coord Coordinate {
+			point [
+				1.58 0.96 -2.9,
+				1.58 1.58 -2.9,
+				1.58 1.58 9.67471e-017,
+				1.58 0.96 1.34711e-016
+			]
+		}
+		normal Normal {
+			vector [
+				1 1.22465e-016 1.22465e-016,
+				1 1.22465e-016 1.22465e-016,
+				1 1.22465e-016 1.22465e-016,
+				1 1.22465e-016 1.22465e-016
+			]
+		}
+		coordIndex [
+			3,	0,	1,	-1,
+			2,	3,	1,	-1
+		]
+	}
+}
+Shape {
+	appearance DEF A3118679887 Appearance {
+		material Material {
+			diffuseColor 0.8 0.67451 0
+			specularColor 0.4 0.337255 0
+			emissiveColor 0.5 0.421569 0
+			ambientIntensity 0.8
+			shininess 0.2
+			transparency 0
+		}
+	}
+	geometry IndexedFaceSet {
+		creaseAngle 2
+		coord Coordinate {
+			point [
+				1.58 1.58 -2.9,
+				0.96 1.58 -2.9,
+				0.96 1.58 2.0819e-017,
+				1.58 1.58 9.67471e-017
+			]
+		}
+		normal Normal {
+			vector [
+				-1.22465e-016 1 -6.12323e-017,
+				-1.22465e-016 1 -6.12323e-017,
+				-1.22465e-016 1 -6.12323e-017,
+				-1.22465e-016 1 -6.12323e-017
+			]
+		}
+		coordIndex [
+			3,	0,	1,	-1,
+			2,	3,	1,	-1
+		]
+	}
+}
+Shape {
+	appearance DEF A4056882762 Appearance {
+		material Material {
+			diffuseColor 0.8 0.67451 0
+			specularColor 0.4 0.337255 0
+			emissiveColor 0.5 0.421569 0
+			ambientIntensity 0.8
+			shininess 0.2
+			transparency 0
+		}
+	}
+	geometry IndexedFaceSet {
+		creaseAngle 2
+		coord Coordinate {
+			point [
+				0.96 1.58 -2.9,
+				0.96 0.96 -2.9,
+				0.96 0.96 5.8783e-017,
+				0.96 1.58 2.0819e-017
+			]
+		}
+		normal Normal {
+			vector [
+				-1 -1.22465e-016 -1.22465e-016,
+				-1 -1.22465e-016 -1.22465e-016,
+				-1 -1.22465e-016 -1.22465e-016,
+				-1 -1.22465e-016 -1.22465e-016
+			]
+		}
+		coordIndex [
+			3,	0,	1,	-1,
+			2,	3,	1,	-1
+		]
+	}
+}
+Shape {
+	appearance DEF A1074980279 Appearance {
+		material Material {
+			diffuseColor 0 0 0
+			specularColor 0 0 0
+			emissiveColor 0 0 0
+			ambientIntensity 0.8
+			shininess 0.2
+			transparency 0
+		}
+	}
+	geometry IndexedFaceSet {
+		creaseAngle 2
+		coord Coordinate {
+			point [
+				2.54 2.54 1.5553e-016,
+				-1.5553e-016 2.54 -1.5553e-016,
+				-4.73938e-016 2.54 2.6,
+				2.54 2.54 2.6
+			]
+		}
+		normal Normal {
+			vector [
+				-1.22465e-016 1 -6.12323e-017,
+				-1.22465e-016 1 -6.12323e-017,
+				-1.22465e-016 1 -6.12323e-017,
+				-1.22465e-016 1 -6.12323e-017
+			]
+		}
+		coordIndex [
+			3,	0,	1,	-1,
+			2,	3,	1,	-1
+		]
+	}
+}
+Shape {
+	appearance DEF A2661025166 Appearance {
+		material Material {
+			diffuseColor 0 0 0
+			specularColor 0 0 0
+			emissiveColor 0 0 0
+			ambientIntensity 0.8
+			shininess 0.2
+			transparency 0
+		}
+	}
+	geometry IndexedFaceSet {
+		creaseAngle 2
+		coord Coordinate {
+			point [
+				2.54 3.1106e-016 3.1106e-016,
+				2.54 2.54 1.5553e-016,
+				2.54 2.54 2.6,
+				2.54 4.70264e-016 2.6
+			]
+		}
+		normal Normal {
+			vector [
+				1 1.22465e-016 1.22465e-016,
+				1 1.22465e-016 1.22465e-016,
+				1 1.22465e-016 1.22465e-016,
+				1 1.22465e-016 1.22465e-016
+			]
+		}
+		coordIndex [
+			3,	0,	1,	-1,
+			2,	3,	1,	-1
+		]
+	}
+}
+Shape {
+	appearance USE A1796202406
+	geometry IndexedFaceSet {
+		creaseAngle 2
+		coord Coordinate {
+			point [
+				0 0 0,
+				2.54 3.1106e-016 3.1106e-016,
+				2.54 4.70264e-016 2.6,
+				-3.18408e-016 1.59204e-016 2.6
+			]
+		}
+		normal Normal {
+			vector [
+				1.22465e-016 -1 6.12323e-017,
+				1.22465e-016 -1 6.12323e-017,
+				1.22465e-016 -1 6.12323e-017,
+				1.22465e-016 -1 6.12323e-017
+			]
+		}
+		coordIndex [
+			3,	0,	1,	-1,
+			2,	3,	1,	-1
+		]
+	}
+}
+Shape {
+	appearance USE A1796202406
+	geometry IndexedFaceSet {
+		creaseAngle 2
+		coord Coordinate {
+			point [
+				-1.5553e-016 2.54 -1.5553e-016,
+				0 0 0,
+				-3.18408e-016 1.59204e-016 2.6,
+				-4.73938e-016 2.54 2.6
+			]
+		}
+		normal Normal {
+			vector [
+				-1 -6.12323e-017 -1.22465e-016,
+				-1 -6.12323e-017 -1.22465e-016,
+				-1 -6.12323e-017 -1.22465e-016,
+				-1 -6.12323e-017 -1.22465e-016
+			]
+		}
+		coordIndex [
+			3,	0,	1,	-1,
+			2,	3,	1,	-1
+		]
+	}
+}
+Shape {
+	appearance DEF A3221853370 Appearance {
+		material Material {
+			diffuseColor 0.8 0.67451 0
+			specularColor 0.4 0.337255 0
+			emissiveColor 0.5 0.421569 0
+			ambientIntensity 0.8
+			shininess 0.2
+			transparency 0
+		}
+	}
+	geometry IndexedFaceSet {
+		creaseAngle 2
+		coord Coordinate {
+			point [
+				1.06 1.48 -3,
+				1.48 1.48 -3,
+				1.48 1.06 -3,
+				1.06 1.06 -3
+			]
+		}
+		normal Normal {
+			vector [
+				1.22465e-016 -6.12323e-017 -1,
+				1.22465e-016 -6.12323e-017 -1,
+				1.22465e-016 -6.12323e-017 -1,
+				1.22465e-016 -6.12323e-017 -1
+			]
+		}
+		coordIndex [
+			3,	0,	2,	-1,
+			1,	2,	0,	-1
+		]
+	}
+}
+Shape {
+	appearance USE A3118679887
+	geometry IndexedFaceSet {
+		creaseAngle 2
+		coord Coordinate {
+			point [
+				-4.73938e-016 2.54 2.6,
+				-3.18408e-016 1.59204e-016 2.6,
+				2.54 4.70264e-016 2.6,
+				2.54 2.54 2.6,
+				0.96 0.96 2.6,
+				0.96 1.58 2.6,
+				1.58 1.58 2.6,
+				1.58 0.96 2.6
+			]
+		}
+		normal Normal {
+			vector [
+				-1.22465e-016 6.12323e-017 1,
+				-1.22465e-016 6.12323e-017 1,
+				-1.22465e-016 6.12323e-017 1,
+				-1.22465e-016 6.12323e-017 1,
+				-1.22465e-016 6.12323e-017 1,
+				-1.22465e-016 6.12323e-017 1,
+				-1.22465e-016 6.12323e-017 1,
+				-1.22465e-016 6.12323e-017 1
+			]
+		}
+		coordIndex [
+			3,	0,	5,	-1,
+			1,	2,	7,	-1,
+			7,	4,	1,	-1,
+			5,	6,	3,	-1,
+			5,	0,	4,	-1,
+			3,	6,	7,	-1,
+			0,	1,	4,	-1,
+			7,	2,	3,	-1
+		]
+	}
+}
+Shape {
+	appearance DEF A3684208197 Appearance {
+		material Material {
+			diffuseColor 0.8 0.67451 0
+			specularColor 0.4 0.337255 0
+			emissiveColor 0.5 0.421569 0
+			ambientIntensity 0.8
+			shininess 0.2
+			transparency 0
+		}
+	}
+	geometry IndexedFaceSet {
+		creaseAngle 2
+		coord Coordinate {
+			point [
+				0.96 0.96 8.7,
+				0.96 1.58 8.7,
+				0.96 1.58 2.6,
+				0.96 0.96 2.6
+			]
+		}
+		normal Normal {
+			vector [
+				-1 -1.22465e-016 -1.22465e-016,
+				-1 -1.22465e-016 -1.22465e-016,
+				-1 -1.22465e-016 -1.22465e-016,
+				-1 -1.22465e-016 -1.22465e-016
+			]
+		}
+		coordIndex [
+			3,	0,	1,	-1,
+			2,	3,	1,	-1
+		]
+	}
+}
+Shape {
+	appearance DEF A4074653890 Appearance {
+		material Material {
+			diffuseColor 0.8 0.67451 0
+			specularColor 0.4 0.337255 0
+			emissiveColor 0.5 0.421569 0
+			ambientIntensity 0.8
+			shininess 0.2
+			transparency 0
+		}
+	}
+	geometry IndexedFaceSet {
+		creaseAngle 2
+		coord Coordinate {
+			point [
+				0.96 1.58 8.7,
+				1.58 1.58 8.7,
+				1.58 1.58 2.6,
+				0.96 1.58 2.6
+			]
+		}
+		normal Normal {
+			vector [
+				-1.22465e-016 1 -6.12323e-017,
+				-1.22465e-016 1 -6.12323e-017,
+				-1.22465e-016 1 -6.12323e-017,
+				-1.22465e-016 1 -6.12323e-017
+			]
+		}
+		coordIndex [
+			3,	0,	1,	-1,
+			2,	3,	1,	-1
+		]
+	}
+}
+Shape {
+	appearance DEF A158829665 Appearance {
+		material Material {
+			diffuseColor 0.8 0.67451 0
+			specularColor 0.4 0.337255 0
+			emissiveColor 0.5 0.421569 0
+			ambientIntensity 0.8
+			shininess 0.2
+			transparency 0
+		}
+	}
+	geometry IndexedFaceSet {
+		creaseAngle 2
+		coord Coordinate {
+			point [
+				1.58 1.58 8.7,
+				1.58 0.96 8.7,
+				1.58 0.96 2.6,
+				1.58 1.58 2.6
+			]
+		}
+		normal Normal {
+			vector [
+				1 1.22465e-016 1.22465e-016,
+				1 1.22465e-016 1.22465e-016,
+				1 1.22465e-016 1.22465e-016,
+				1 1.22465e-016 1.22465e-016
+			]
+		}
+		coordIndex [
+			3,	0,	1,	-1,
+			2,	3,	1,	-1
+		]
+	}
+}
+Shape {
+	appearance DEF A2660304091 Appearance {
+		material Material {
+			diffuseColor 0.8 0.67451 0
+			specularColor 0.4 0.337255 0
+			emissiveColor 0.5 0.421569 0
+			ambientIntensity 0.8
+			shininess 0.2
+			transparency 0
+		}
+	}
+	geometry IndexedFaceSet {
+		creaseAngle 2
+		coord Coordinate {
+			point [
+				1.58 0.96 8.7,
+				0.96 0.96 8.7,
+				0.96 0.96 2.6,
+				1.58 0.96 2.6
+			]
+		}
+		normal Normal {
+			vector [
+				1.22465e-016 -1 6.12323e-017,
+				1.22465e-016 -1 6.12323e-017,
+				1.22465e-016 -1 6.12323e-017,
+				1.22465e-016 -1 6.12323e-017
+			]
+		}
+		coordIndex [
+			3,	0,	1,	-1,
+			2,	3,	1,	-1
+		]
+	}
+}
+Shape {
+	appearance DEF A3957808486 Appearance {
+		material Material {
+			diffuseColor 0.8 0.67451 0
+			specularColor 0.4 0.337255 0
+			emissiveColor 0.5 0.421569 0
+			ambientIntensity 0.8
+			shininess 0.2
+			transparency 0
+		}
+	}
+	geometry IndexedFaceSet {
+		creaseAngle 2
+		coord Coordinate {
+			point [
+				1.48 1.06 8.8,
+				1.48 1.48 8.8,
+				1.06 1.48 8.8,
+				1.06 1.06 8.8
+			]
+		}
+		normal Normal {
+			vector [
+				-1.22465e-016 6.12323e-017 1,
+				-1.22465e-016 6.12323e-017 1,
+				-1.22465e-016 6.12323e-017 1,
+				-1.22465e-016 6.12323e-017 1
+			]
+		}
+		coordIndex [
+			3,	0,	2,	-1,
+			1,	2,	0,	-1
+		]
+	}
+}
+Shape {
+	appearance DEF A2209760397 Appearance {
+		material Material {
+			diffuseColor 0.8 0.67451 0
+			specularColor 0.4 0.337255 0
+			emissiveColor 0.5 0.421569 0
+			ambientIntensity 0.8
+			shininess 0.2
+			transparency 0
+		}
+	}
+	geometry IndexedFaceSet {
+		creaseAngle 2
+		coord Coordinate {
+			point [
+				0.96 1.58 -2.9,
+				1.58 1.58 -2.9,
+				1.48 1.48 -3,
+				1.06 1.48 -3
+			]
+		}
+		normal Normal {
+			vector [
+				2.2114e-016 0.707107 -0.707107,
+				2.2114e-016 0.707107 -0.707107,
+				2.2114e-016 0.707107 -0.707107,
+				2.2114e-016 0.707107 -0.707107
+			]
+		}
+		coordIndex [
+			3,	0,	2,	-1,
+			1,	2,	0,	-1
+		]
+	}
+}
+Shape {
+	appearance DEF A722544464 Appearance {
+		material Material {
+			diffuseColor 0.8 0.67451 0
+			specularColor 0.4 0.337255 0
+			emissiveColor 0.5 0.421569 0
+			ambientIntensity 0.8
+			shininess 0.2
+			transparency 0
+		}
+	}
+	geometry IndexedFaceSet {
+		creaseAngle 2
+		coord Coordinate {
+			point [
+				1.58 1.58 -2.9,
+				1.58 0.96 -2.9,
+				1.48 1.06 -3,
+				1.48 1.48 -3
+			]
+		}
+		normal Normal {
+			vector [
+				0.707107 4.32978e-017 -0.707107,
+				0.707107 4.32978e-017 -0.707107,
+				0.707107 4.32978e-017 -0.707107,
+				0.707107 4.32978e-017 -0.707107
+			]
+		}
+		coordIndex [
+			3,	0,	2,	-1,
+			1,	2,	0,	-1
+		]
+	}
+}
+Shape {
+	appearance DEF A4172694962 Appearance {
+		material Material {
+			diffuseColor 0.8 0.67451 0
+			specularColor 0.4 0.337255 0
+			emissiveColor 0.5 0.421569 0
+			ambientIntensity 0.8
+			shininess 0.2
+			transparency 0
+		}
+	}
+	geometry IndexedFaceSet {
+		creaseAngle 2
+		coord Coordinate {
+			point [
+				1.58 0.96 -2.9,
+				0.96 0.96 -2.9,
+				1.06 1.06 -3,
+				1.48 1.06 -3
+			]
+		}
+		normal Normal {
+			vector [
+				-4.79486e-017 -0.707107 -0.707107,
+				-4.79486e-017 -0.707107 -0.707107,
+				-4.79486e-017 -0.707107 -0.707107,
+				-4.79486e-017 -0.707107 -0.707107
+			]
+		}
+		coordIndex [
+			3,	0,	1,	-1,
+			2,	3,	1,	-1
+		]
+	}
+}
+Shape {
+	appearance USE A3684208197
+	geometry IndexedFaceSet {
+		creaseAngle 2
+		coord Coordinate {
+			point [
+				0.96 0.96 -2.9,
+				0.96 1.58 -2.9,
+				1.06 1.48 -3,
+				1.06 1.06 -3
+			]
+		}
+		normal Normal {
+			vector [
+				-0.707107 -1.29893e-016 -0.707107,
+				-0.707107 -1.29893e-016 -0.707107,
+				-0.707107 -1.29893e-016 -0.707107,
+				-0.707107 -1.29893e-016 -0.707107
+			]
+		}
+		coordIndex [
+			3,	0,	1,	-1,
+			2,	3,	1,	-1
+		]
+	}
+}
+Shape {
+	appearance DEF A889965550 Appearance {
+		material Material {
+			diffuseColor 0.8 0.67451 0
+			specularColor 0.4 0.337255 0
+			emissiveColor 0.5 0.421569 0
+			ambientIntensity 0.8
+			shininess 0.2
+			transparency 0
+		}
+	}
+	geometry IndexedFaceSet {
+		creaseAngle 2
+		coord Coordinate {
+			point [
+				1.58 0.96 8.7,
+				1.58 1.58 8.7,
+				1.48 1.48 8.8,
+				1.48 1.06 8.8
+			]
+		}
+		normal Normal {
+			vector [
+				0.707107 1.29893e-016 0.707107,
+				0.707107 1.29893e-016 0.707107,
+				0.707107 1.29893e-016 0.707107,
+				0.707107 1.29893e-016 0.707107
+			]
+		}
+		coordIndex [
+			3,	0,	2,	-1,
+			1,	2,	0,	-1
+		]
+	}
+}
+Shape {
+	appearance DEF A2458033163 Appearance {
+		material Material {
+			diffuseColor 0.8 0.67451 0
+			specularColor 0.4 0.337255 0
+			emissiveColor 0.5 0.421569 0
+			ambientIntensity 0.8
+			shininess 0.2
+			transparency 0
+		}
+	}
+	geometry IndexedFaceSet {
+		creaseAngle 2
+		coord Coordinate {
+			point [
+				1.58 1.58 8.7,
+				0.96 1.58 8.7,
+				1.06 1.48 8.8,
+				1.48 1.48 8.8
+			]
+		}
+		normal Normal {
+			vector [
+				-1.73191e-016 0.707107 0.707107,
+				-1.73191e-016 0.707107 0.707107,
+				-1.73191e-016 0.707107 0.707107,
+				-1.73191e-016 0.707107 0.707107
+			]
+		}
+		coordIndex [
+			3,	0,	2,	-1,
+			1,	2,	0,	-1
+		]
+	}
+}
+Shape {
+	appearance DEF A4104905435 Appearance {
+		material Material {
+			diffuseColor 0.8 0.67451 0
+			specularColor 0.4 0.337255 0
+			emissiveColor 0.5 0.421569 0
+			ambientIntensity 0.8
+			shininess 0.2
+			transparency 0
+		}
+	}
+	geometry IndexedFaceSet {
+		creaseAngle 2
+		coord Coordinate {
+			point [
+				0.96 1.58 8.7,
+				0.96 0.96 8.7,
+				1.06 1.06 8.8,
+				1.06 1.48 8.8
+			]
+		}
+		normal Normal {
+			vector [
+				-0.707107 -4.32978e-017 0.707107,
+				-0.707107 -4.32978e-017 0.707107,
+				-0.707107 -4.32978e-017 0.707107,
+				-0.707107 -4.32978e-017 0.707107
+			]
+		}
+		coordIndex [
+			3,	0,	2,	-1,
+			1,	2,	0,	-1
+		]
+	}
+}
+Shape {
+	appearance USE A3118679887
+	geometry IndexedFaceSet {
+		creaseAngle 2
+		coord Coordinate {
+			point [
+				0.96 0.96 8.7,
+				1.58 0.96 8.7,
+				1.48 1.06 8.8,
+				1.06 1.06 8.8
+			]
+		}
+		normal Normal {
+			vector [
+				0 -0.707107 0.707107,
+				0 -0.707107 0.707107,
+				0 -0.707107 0.707107,
+				0 -0.707107 0.707107
+			]
+		}
+		coordIndex [
+			3,	0,	2,	-1,
+			1,	2,	0,	-1
+		]
+	}
+}
+Shape {
+	appearance DEF A1156049177 Appearance {
+		material Material {
+			diffuseColor 0 0 0
+			specularColor 0 0 0
+			emissiveColor 0 0 0
+			ambientIntensity 0.8
+			shininess 0.2
+			transparency 0
+		}
+	}
+	geometry IndexedFaceSet {
+		creaseAngle 2
+		coord Coordinate {
+			point [
+				1.9233e-017 -2.54 1.9233e-017,
+				2.54 -2.54 3.30293e-016,
+				2.54 -3.8147e-008 1.74763e-016,
+				-1.36297e-016 -3.8147e-008 -1.36297e-016,
+				1.58 -0.96 1.1598e-016,
+				1.58 -1.58 1.53944e-016,
+				0.96 -1.58 7.80161e-017,
+				0.96 -0.96 4.0052e-017
+			]
+		}
+		normal Normal {
+			vector [
+				1.22465e-016 -6.12323e-017 -1,
+				1.22465e-016 -6.12323e-017 -1,
+				1.22465e-016 -6.12323e-017 -1,
+				1.22465e-016 -6.12323e-017 -1,
+				1.22465e-016 -6.12323e-017 -1,
+				1.22465e-016 -6.12323e-017 -1,
+				1.22465e-016 -6.12323e-017 -1,
+				1.22465e-016 -6.12323e-017 -1
+			]
+		}
+		coordIndex [
+			7,	0,	3,	-1,
+			4,	2,	1,	-1,
+			3,	4,	7,	-1,
+			1,	6,	5,	-1,
+			6,	0,	7,	-1,
+			2,	4,	3,	-1,
+			6,	1,	0,	-1,
+			5,	4,	1,	-1
+		]
+	}
+}
+Shape {
+	appearance DEF A3935697184 Appearance {
+		material Material {
+			diffuseColor 0.8 0.67451 0
+			specularColor 0.4 0.337255 0
+			emissiveColor 0.5 0.421569 0
+			ambientIntensity 0.8
+			shininess 0.2
+			transparency 0
+		}
+	}
+	geometry IndexedFaceSet {
+		creaseAngle 2
+		coord Coordinate {
+			point [
+				0.96 -1.58 -2.9,
+				1.58 -1.58 -2.9,
+				1.58 -1.58 1.53944e-016,
+				0.96 -1.58 7.80161e-017
+			]
+		}
+		normal Normal {
+			vector [
+				1.22465e-016 -1 6.12323e-017,
+				1.22465e-016 -1 6.12323e-017,
+				1.22465e-016 -1 6.12323e-017,
+				1.22465e-016 -1 6.12323e-017
+			]
+		}
+		coordIndex [
+			3,	0,	1,	-1,
+			2,	3,	1,	-1
+		]
+	}
+}
+Shape {
+	appearance DEF A4269960909 Appearance {
+		material Material {
+			diffuseColor 0.8 0.67451 0
+			specularColor 0.4 0.337255 0
+			emissiveColor 0.5 0.421569 0
+			ambientIntensity 0.8
+			shininess 0.2
+			transparency 0
+		}
+	}
+	geometry IndexedFaceSet {
+		creaseAngle 2
+		coord Coordinate {
+			point [
+				1.58 -1.58 -2.9,
+				1.58 -0.96 -2.9,
+				1.58 -0.96 1.1598e-016,
+				1.58 -1.58 1.53944e-016
+			]
+		}
+		normal Normal {
+			vector [
+				1 1.22465e-016 1.22465e-016,
+				1 1.22465e-016 1.22465e-016,
+				1 1.22465e-016 1.22465e-016,
+				1 1.22465e-016 1.22465e-016
+			]
+		}
+		coordIndex [
+			3,	0,	1,	-1,
+			2,	3,	1,	-1
+		]
+	}
+}
+Shape {
+	appearance USE A4269960909
+	geometry IndexedFaceSet {
+		creaseAngle 2
+		coord Coordinate {
+			point [
+				1.58 -0.96 -2.9,
+				0.96 -0.96 -2.9,
+				0.96 -0.96 4.0052e-017,
+				1.58 -0.96 1.1598e-016
+			]
+		}
+		normal Normal {
+			vector [
+				-1.22465e-016 1 -6.12323e-017,
+				-1.22465e-016 1 -6.12323e-017,
+				-1.22465e-016 1 -6.12323e-017,
+				-1.22465e-016 1 -6.12323e-017
+			]
+		}
+		coordIndex [
+			3,	0,	1,	-1,
+			2,	3,	1,	-1
+		]
+	}
+}
+Shape {
+	appearance DEF A1445989824 Appearance {
+		material Material {
+			diffuseColor 0.8 0.67451 0
+			specularColor 0.4 0.337255 0
+			emissiveColor 0.5 0.421569 0
+			ambientIntensity 0.8
+			shininess 0.2
+			transparency 0
+		}
+	}
+	geometry IndexedFaceSet {
+		creaseAngle 2
+		coord Coordinate {
+			point [
+				0.96 -0.96 -2.9,
+				0.96 -1.58 -2.9,
+				0.96 -1.58 7.80161e-017,
+				0.96 -0.96 4.0052e-017
+			]
+		}
+		normal Normal {
+			vector [
+				-1 -1.22465e-016 -1.22465e-016,
+				-1 -1.22465e-016 -1.22465e-016,
+				-1 -1.22465e-016 -1.22465e-016,
+				-1 -1.22465e-016 -1.22465e-016
+			]
+		}
+		coordIndex [
+			3,	0,	1,	-1,
+			2,	3,	1,	-1
+		]
+	}
+}
+Shape {
+	appearance DEF A1124296553 Appearance {
+		material Material {
+			diffuseColor 0 0 0
+			specularColor 0 0 0
+			emissiveColor 0 0 0
+			ambientIntensity 0.8
+			shininess 0.2
+			transparency 0
+		}
+	}
+	geometry IndexedFaceSet {
+		creaseAngle 2
+		coord Coordinate {
+			point [
+				2.54 -3.8147e-008 1.74763e-016,
+				-1.36297e-016 -3.8147e-008 -1.36297e-016,
+				-4.54705e-016 -3.8147e-008 2.6,
+				2.54 -3.8147e-008 2.6
+			]
+		}
+		normal Normal {
+			vector [
+				-1.22465e-016 1 -6.12323e-017,
+				-1.22465e-016 1 -6.12323e-017,
+				-1.22465e-016 1 -6.12323e-017,
+				-1.22465e-016 1 -6.12323e-017
+			]
+		}
+		coordIndex [
+			3,	0,	1,	-1,
+			2,	3,	1,	-1
+		]
+	}
+}
+Shape {
+	appearance DEF A832404538 Appearance {
+		material Material {
+			diffuseColor 0 0 0
+			specularColor 0 0 0
+			emissiveColor 0 0 0
+			ambientIntensity 0.8
+			shininess 0.2
+			transparency 0
+		}
+	}
+	geometry IndexedFaceSet {
+		creaseAngle 2
+		coord Coordinate {
+			point [
+				2.54 -2.54 3.30293e-016,
+				2.54 -3.8147e-008 1.74763e-016,
+				2.54 -3.8147e-008 2.6,
+				2.54 -2.54 2.6
+			]
+		}
+		normal Normal {
+			vector [
+				1 1.22465e-016 1.22465e-016,
+				1 1.22465e-016 1.22465e-016,
+				1 1.22465e-016 1.22465e-016,
+				1 1.22465e-016 1.22465e-016
+			]
+		}
+		coordIndex [
+			3,	0,	1,	-1,
+			2,	3,	1,	-1
+		]
+	}
+}
+Shape {
+	appearance DEF A3452436273 Appearance {
+		material Material {
+			diffuseColor 0 0 0
+			specularColor 0 0 0
+			emissiveColor 0 0 0
+			ambientIntensity 0.8
+			shininess 0.2
+			transparency 0
+		}
+	}
+	geometry IndexedFaceSet {
+		creaseAngle 2
+		coord Coordinate {
+			point [
+				1.9233e-017 -2.54 1.9233e-017,
+				2.54 -2.54 3.30293e-016,
+				2.54 -2.54 2.6,
+				-2.99175e-016 -2.54 2.6
+			]
+		}
+		normal Normal {
+			vector [
+				1.22465e-016 -1 6.12323e-017,
+				1.22465e-016 -1 6.12323e-017,
+				1.22465e-016 -1 6.12323e-017,
+				1.22465e-016 -1 6.12323e-017
+			]
+		}
+		coordIndex [
+			3,	0,	1,	-1,
+			2,	3,	1,	-1
+		]
+	}
+}
+Shape {
+	appearance DEF A3888694236 Appearance {
+		material Material {
+			diffuseColor 0 0 0
+			specularColor 0 0 0
+			emissiveColor 0 0 0
+			ambientIntensity 0.8
+			shininess 0.2
+			transparency 0
+		}
+	}
+	geometry IndexedFaceSet {
+		creaseAngle 2
+		coord Coordinate {
+			point [
+				-1.36297e-016 -3.8147e-008 -1.36297e-016,
+				1.9233e-017 -2.54 1.9233e-017,
+				-2.99175e-016 -2.54 2.6,
+				-4.54705e-016 -3.8147e-008 2.6
+			]
+		}
+		normal Normal {
+			vector [
+				-1 -6.12323e-017 -1.22465e-016,
+				-1 -6.12323e-017 -1.22465e-016,
+				-1 -6.12323e-017 -1.22465e-016,
+				-1 -6.12323e-017 -1.22465e-016
+			]
+		}
+		coordIndex [
+			3,	0,	1,	-1,
+			2,	3,	1,	-1
+		]
+	}
+}
+Shape {
+	appearance DEF A1094555184 Appearance {
+		material Material {
+			diffuseColor 0.8 0.67451 0
+			specularColor 0.4 0.337255 0
+			emissiveColor 0.5 0.421569 0
+			ambientIntensity 0.8
+			shininess 0.2
+			transparency 0
+		}
+	}
+	geometry IndexedFaceSet {
+		creaseAngle 2
+		coord Coordinate {
+			point [
+				1.06 -1.06 -3,
+				1.48 -1.06 -3,
+				1.48 -1.48 -3,
+				1.06 -1.48 -3
+			]
+		}
+		normal Normal {
+			vector [
+				1.22465e-016 -6.12323e-017 -1,
+				1.22465e-016 -6.12323e-017 -1,
+				1.22465e-016 -6.12323e-017 -1,
+				1.22465e-016 -6.12323e-017 -1
+			]
+		}
+		coordIndex [
+			3,	0,	2,	-1,
+			1,	2,	0,	-1
+		]
+	}
+}
+Shape {
+	appearance DEF A4289492827 Appearance {
+		material Material {
+			diffuseColor 0 0 0
+			specularColor 0 0 0
+			emissiveColor 0 0 0
+			ambientIntensity 0.8
+			shininess 0.2
+			transparency 0
+		}
+	}
+	geometry IndexedFaceSet {
+		creaseAngle 2
+		coord Coordinate {
+			point [
+				-4.54705e-016 -3.8147e-008 2.6,
+				-2.99175e-016 -2.54 2.6,
+				2.54 -2.54 2.6,
+				2.54 -3.8147e-008 2.6,
+				0.96 -1.58 2.6,
+				0.96 -0.96 2.6,
+				1.58 -0.96 2.6,
+				1.58 -1.58 2.6
+			]
+		}
+		normal Normal {
+			vector [
+				-1.22465e-016 6.12323e-017 1,
+				-1.22465e-016 6.12323e-017 1,
+				-1.22465e-016 6.12323e-017 1,
+				-1.22465e-016 6.12323e-017 1,
+				-1.22465e-016 6.12323e-017 1,
+				-1.22465e-016 6.12323e-017 1,
+				-1.22465e-016 6.12323e-017 1,
+				-1.22465e-016 6.12323e-017 1
+			]
+		}
+		coordIndex [
+			3,	0,	5,	-1,
+			1,	2,	7,	-1,
+			7,	4,	1,	-1,
+			5,	6,	3,	-1,
+			5,	0,	4,	-1,
+			3,	6,	7,	-1,
+			0,	1,	4,	-1,
+			7,	2,	3,	-1
+		]
+	}
+}
+Shape {
+	appearance DEF A1861291278 Appearance {
+		material Material {
+			diffuseColor 0.8 0.67451 0
+			specularColor 0.4 0.337255 0
+			emissiveColor 0.5 0.421569 0
+			ambientIntensity 0.8
+			shininess 0.2
+			transparency 0
+		}
+	}
+	geometry IndexedFaceSet {
+		creaseAngle 2
+		coord Coordinate {
+			point [
+				0.96 -1.58 8.7,
+				0.96 -0.96 8.7,
+				0.96 -0.96 2.6,
+				0.96 -1.58 2.6
+			]
+		}
+		normal Normal {
+			vector [
+				-1 -1.22465e-016 -1.22465e-016,
+				-1 -1.22465e-016 -1.22465e-016,
+				-1 -1.22465e-016 -1.22465e-016,
+				-1 -1.22465e-016 -1.22465e-016
+			]
+		}
+		coordIndex [
+			3,	0,	1,	-1,
+			2,	3,	1,	-1
+		]
+	}
+}
+Shape {
+	appearance DEF A2774287993 Appearance {
+		material Material {
+			diffuseColor 0.8 0.67451 0
+			specularColor 0.4 0.337255 0
+			emissiveColor 0.5 0.421569 0
+			ambientIntensity 0.8
+			shininess 0.2
+			transparency 0
+		}
+	}
+	geometry IndexedFaceSet {
+		creaseAngle 2
+		coord Coordinate {
+			point [
+				0.96 -0.96 8.7,
+				1.58 -0.96 8.7,
+				1.58 -0.96 2.6,
+				0.96 -0.96 2.6
+			]
+		}
+		normal Normal {
+			vector [
+				-1.22465e-016 1 -6.12323e-017,
+				-1.22465e-016 1 -6.12323e-017,
+				-1.22465e-016 1 -6.12323e-017,
+				-1.22465e-016 1 -6.12323e-017
+			]
+		}
+		coordIndex [
+			3,	0,	1,	-1,
+			2,	3,	1,	-1
+		]
+	}
+}
+Shape {
+	appearance DEF A746214353 Appearance {
+		material Material {
+			diffuseColor 0.8 0.67451 0
+			specularColor 0.4 0.337255 0
+			emissiveColor 0.5 0.421569 0
+			ambientIntensity 0.8
+			shininess 0.2
+			transparency 0
+		}
+	}
+	geometry IndexedFaceSet {
+		creaseAngle 2
+		coord Coordinate {
+			point [
+				1.58 -0.96 8.7,
+				1.58 -1.58 8.7,
+				1.58 -1.58 2.6,
+				1.58 -0.96 2.6
+			]
+		}
+		normal Normal {
+			vector [
+				1 1.22465e-016 1.22465e-016,
+				1 1.22465e-016 1.22465e-016,
+				1 1.22465e-016 1.22465e-016,
+				1 1.22465e-016 1.22465e-016
+			]
+		}
+		coordIndex [
+			3,	0,	1,	-1,
+			2,	3,	1,	-1
+		]
+	}
+}
+Shape {
+	appearance USE A1094555184
+	geometry IndexedFaceSet {
+		creaseAngle 2
+		coord Coordinate {
+			point [
+				1.58 -1.58 8.7,
+				0.96 -1.58 8.7,
+				0.96 -1.58 2.6,
+				1.58 -1.58 2.6
+			]
+		}
+		normal Normal {
+			vector [
+				1.22465e-016 -1 6.12323e-017,
+				1.22465e-016 -1 6.12323e-017,
+				1.22465e-016 -1 6.12323e-017,
+				1.22465e-016 -1 6.12323e-017
+			]
+		}
+		coordIndex [
+			3,	0,	1,	-1,
+			2,	3,	1,	-1
+		]
+	}
+}
+Shape {
+	appearance DEF A3105580749 Appearance {
+		material Material {
+			diffuseColor 0.8 0.67451 0
+			specularColor 0.4 0.337255 0
+			emissiveColor 0.5 0.421569 0
+			ambientIntensity 0.8
+			shininess 0.2
+			transparency 0
+		}
+	}
+	geometry IndexedFaceSet {
+		creaseAngle 2
+		coord Coordinate {
+			point [
+				1.48 -1.48 8.8,
+				1.48 -1.06 8.8,
+				1.06 -1.06 8.8,
+				1.06 -1.48 8.8
+			]
+		}
+		normal Normal {
+			vector [
+				-1.22465e-016 6.12323e-017 1,
+				-1.22465e-016 6.12323e-017 1,
+				-1.22465e-016 6.12323e-017 1,
+				-1.22465e-016 6.12323e-017 1
+			]
+		}
+		coordIndex [
+			3,	0,	2,	-1,
+			1,	2,	0,	-1
+		]
+	}
+}
+Shape {
+	appearance USE A832404538
+	geometry IndexedFaceSet {
+		creaseAngle 2
+		coord Coordinate {
+			point [
+				0.96 -0.96 -2.9,
+				1.58 -0.96 -2.9,
+				1.48 -1.06 -3,
+				1.06 -1.06 -3
+			]
+		}
+		normal Normal {
+			vector [
+				2.2114e-016 0.707107 -0.707107,
+				2.2114e-016 0.707107 -0.707107,
+				2.2114e-016 0.707107 -0.707107,
+				2.2114e-016 0.707107 -0.707107
+			]
+		}
+		coordIndex [
+			3,	0,	2,	-1,
+			1,	2,	0,	-1
+		]
+	}
+}
+Shape {
+	appearance USE A832404538
+	geometry IndexedFaceSet {
+		creaseAngle 2
+		coord Coordinate {
+			point [
+				1.58 -0.96 -2.9,
+				1.58 -1.58 -2.9,
+				1.48 -1.48 -3,
+				1.48 -1.06 -3
+			]
+		}
+		normal Normal {
+			vector [
+				0.707107 4.32978e-017 -0.707107,
+				0.707107 4.32978e-017 -0.707107,
+				0.707107 4.32978e-017 -0.707107,
+				0.707107 4.32978e-017 -0.707107
+			]
+		}
+		coordIndex [
+			3,	0,	2,	-1,
+			1,	2,	0,	-1
+		]
+	}
+}
+Shape {
+	appearance DEF A842682205 Appearance {
+		material Material {
+			diffuseColor 0.8 0.67451 0
+			specularColor 0.4 0.337255 0
+			emissiveColor 0.5 0.421569 0
+			ambientIntensity 0.8
+			shininess 0.2
+			transparency 0
+		}
+	}
+	geometry IndexedFaceSet {
+		creaseAngle 2
+		coord Coordinate {
+			point [
+				1.58 -1.58 -2.9,
+				0.96 -1.58 -2.9,
+				1.06 -1.48 -3,
+				1.48 -1.48 -3
+			]
+		}
+		normal Normal {
+			vector [
+				-4.79486e-017 -0.707107 -0.707107,
+				-4.79486e-017 -0.707107 -0.707107,
+				-4.79486e-017 -0.707107 -0.707107,
+				-4.79486e-017 -0.707107 -0.707107
+			]
+		}
+		coordIndex [
+			3,	0,	1,	-1,
+			2,	3,	1,	-1
+		]
+	}
+}
+Shape {
+	appearance USE A3888694236
+	geometry IndexedFaceSet {
+		creaseAngle 2
+		coord Coordinate {
+			point [
+				0.96 -1.58 -2.9,
+				0.96 -0.96 -2.9,
+				1.06 -1.06 -3,
+				1.06 -1.48 -3
+			]
+		}
+		normal Normal {
+			vector [
+				-0.707107 -1.29893e-016 -0.707107,
+				-0.707107 -1.29893e-016 -0.707107,
+				-0.707107 -1.29893e-016 -0.707107,
+				-0.707107 -1.29893e-016 -0.707107
+			]
+		}
+		coordIndex [
+			3,	0,	1,	-1,
+			2,	3,	1,	-1
+		]
+	}
+}
+Shape {
+	appearance DEF A147207756 Appearance {
+		material Material {
+			diffuseColor 0.8 0.67451 0
+			specularColor 0.4 0.337255 0
+			emissiveColor 0.5 0.421569 0
+			ambientIntensity 0.8
+			shininess 0.2
+			transparency 0
+		}
+	}
+	geometry IndexedFaceSet {
+		creaseAngle 2
+		coord Coordinate {
+			point [
+				1.58 -1.58 8.7,
+				1.58 -0.96 8.7,
+				1.48 -1.06 8.8,
+				1.48 -1.48 8.8
+			]
+		}
+		normal Normal {
+			vector [
+				0.707107 1.29893e-016 0.707107,
+				0.707107 1.29893e-016 0.707107,
+				0.707107 1.29893e-016 0.707107,
+				0.707107 1.29893e-016 0.707107
+			]
+		}
+		coordIndex [
+			3,	0,	2,	-1,
+			1,	2,	0,	-1
+		]
+	}
+}
+Shape {
+	appearance DEF A3114586444 Appearance {
+		material Material {
+			diffuseColor 0.8 0.67451 0
+			specularColor 0.4 0.337255 0
+			emissiveColor 0.5 0.421569 0
+			ambientIntensity 0.8
+			shininess 0.2
+			transparency 0
+		}
+	}
+	geometry IndexedFaceSet {
+		creaseAngle 2
+		coord Coordinate {
+			point [
+				1.58 -0.96 8.7,
+				0.96 -0.96 8.7,
+				1.06 -1.06 8.8,
+				1.48 -1.06 8.8
+			]
+		}
+		normal Normal {
+			vector [
+				-1.73191e-016 0.707107 0.707107,
+				-1.73191e-016 0.707107 0.707107,
+				-1.73191e-016 0.707107 0.707107,
+				-1.73191e-016 0.707107 0.707107
+			]
+		}
+		coordIndex [
+			3,	0,	2,	-1,
+			1,	2,	0,	-1
+		]
+	}
+}
+Shape {
+	appearance DEF A4078426135 Appearance {
+		material Material {
+			diffuseColor 0.8 0.67451 0
+			specularColor 0.4 0.337255 0
+			emissiveColor 0.5 0.421569 0
+			ambientIntensity 0.8
+			shininess 0.2
+			transparency 0
+		}
+	}
+	geometry IndexedFaceSet {
+		creaseAngle 2
+		coord Coordinate {
+			point [
+				0.96 -0.96 8.7,
+				0.96 -1.58 8.7,
+				1.06 -1.48 8.8,
+				1.06 -1.06 8.8
+			]
+		}
+		normal Normal {
+			vector [
+				-0.707107 -4.32978e-017 0.707107,
+				-0.707107 -4.32978e-017 0.707107,
+				-0.707107 -4.32978e-017 0.707107,
+				-0.707107 -4.32978e-017 0.707107
+			]
+		}
+		coordIndex [
+			3,	0,	2,	-1,
+			1,	2,	0,	-1
+		]
+	}
+}
+Shape {
+	appearance DEF A3714869851 Appearance {
+		material Material {
+			diffuseColor 0.8 0.67451 0
+			specularColor 0.4 0.337255 0
+			emissiveColor 0.5 0.421569 0
+			ambientIntensity 0.8
+			shininess 0.2
+			transparency 0
+		}
+	}
+	geometry IndexedFaceSet {
+		creaseAngle 2
+		coord Coordinate {
+			point [
+				0.96 -1.58 8.7,
+				1.58 -1.58 8.7,
+				1.48 -1.48 8.8,
+				1.06 -1.48 8.8
+			]
+		}
+		normal Normal {
+			vector [
+				0 -0.707107 0.707107,
+				0 -0.707107 0.707107,
+				0 -0.707107 0.707107,
+				0 -0.707107 0.707107
+			]
+		}
+		coordIndex [
+			3,	0,	2,	-1,
+			1,	2,	0,	-1
+		]
+	}
+}
+Shape {
+	appearance DEF A698440607 Appearance {
+		material Material {
+			diffuseColor 0 0 0
+			specularColor 0 0 0
+			emissiveColor 0 0 0
+			ambientIntensity 0.8
+			shininess 0.2
+			transparency 0
+		}
+	}
+	geometry IndexedFaceSet {
+		creaseAngle 2
+		coord Coordinate {
+			point [
+				3.84661e-017 -5.08 3.84661e-017,
+				2.54 -5.08 3.49526e-016,
+				2.54 -2.54 1.93996e-016,
+				-1.17064e-016 -2.54 -1.17064e-016,
+				1.58 -3.5 1.35213e-016,
+				1.58 -4.12 1.73177e-016,
+				0.96 -4.12 9.72491e-017,
+				0.96 -3.5 5.92851e-017
+			]
+		}
+		normal Normal {
+			vector [
+				1.22465e-016 -6.12323e-017 -1,
+				1.22465e-016 -6.12323e-017 -1,
+				1.22465e-016 -6.12323e-017 -1,
+				1.22465e-016 -6.12323e-017 -1,
+				1.22465e-016 -6.12323e-017 -1,
+				1.22465e-016 -6.12323e-017 -1,
+				1.22465e-016 -6.12323e-017 -1,
+				1.22465e-016 -6.12323e-017 -1
+			]
+		}
+		coordIndex [
+			7,	0,	3,	-1,
+			4,	2,	1,	-1,
+			3,	4,	7,	-1,
+			1,	6,	5,	-1,
+			6,	0,	7,	-1,
+			2,	4,	3,	-1,
+			6,	1,	0,	-1,
+			5,	4,	1,	-1
+		]
+	}
+}
+Shape {
+	appearance DEF A3898447175 Appearance {
+		material Material {
+			diffuseColor 0.8 0.67451 0
+			specularColor 0.4 0.337255 0
+			emissiveColor 0.5 0.421569 0
+			ambientIntensity 0.8
+			shininess 0.2
+			transparency 0
+		}
+	}
+	geometry IndexedFaceSet {
+		creaseAngle 2
+		coord Coordinate {
+			point [
+				0.96 -4.12 -2.9,
+				1.58 -4.12 -2.9,
+				1.58 -4.12 1.73177e-016,
+				0.96 -4.12 9.72491e-017
+			]
+		}
+		normal Normal {
+			vector [
+				1.22465e-016 -1 6.12323e-017,
+				1.22465e-016 -1 6.12323e-017,
+				1.22465e-016 -1 6.12323e-017,
+				1.22465e-016 -1 6.12323e-017
+			]
+		}
+		coordIndex [
+			3,	0,	1,	-1,
+			2,	3,	1,	-1
+		]
+	}
+}
+Shape {
+	appearance DEF A3728983869 Appearance {
+		material Material {
+			diffuseColor 0.8 0.67451 0
+			specularColor 0.4 0.337255 0
+			emissiveColor 0.5 0.421569 0
+			ambientIntensity 0.8
+			shininess 0.2
+			transparency 0
+		}
+	}
+	geometry IndexedFaceSet {
+		creaseAngle 2
+		coord Coordinate {
+			point [
+				1.58 -4.12 -2.9,
+				1.58 -3.5 -2.9,
+				1.58 -3.5 1.35213e-016,
+				1.58 -4.12 1.73177e-016
+			]
+		}
+		normal Normal {
+			vector [
+				1 1.22465e-016 1.22465e-016,
+				1 1.22465e-016 1.22465e-016,
+				1 1.22465e-016 1.22465e-016,
+				1 1.22465e-016 1.22465e-016
+			]
+		}
+		coordIndex [
+			3,	0,	1,	-1,
+			2,	3,	1,	-1
+		]
+	}
+}
+Shape {
+	appearance USE A3728983869
+	geometry IndexedFaceSet {
+		creaseAngle 2
+		coord Coordinate {
+			point [
+				1.58 -3.5 -2.9,
+				0.96 -3.5 -2.9,
+				0.96 -3.5 5.92851e-017,
+				1.58 -3.5 1.35213e-016
+			]
+		}
+		normal Normal {
+			vector [
+				-1.22465e-016 1 -6.12323e-017,
+				-1.22465e-016 1 -6.12323e-017,
+				-1.22465e-016 1 -6.12323e-017,
+				-1.22465e-016 1 -6.12323e-017
+			]
+		}
+		coordIndex [
+			3,	0,	1,	-1,
+			2,	3,	1,	-1
+		]
+	}
+}
+Shape {
+	appearance DEF A3324668245 Appearance {
+		material Material {
+			diffuseColor 0.8 0.67451 0
+			specularColor 0.4 0.337255 0
+			emissiveColor 0.5 0.421569 0
+			ambientIntensity 0.8
+			shininess 0.2
+			transparency 0
+		}
+	}
+	geometry IndexedFaceSet {
+		creaseAngle 2
+		coord Coordinate {
+			point [
+				0.96 -3.5 -2.9,
+				0.96 -4.12 -2.9,
+				0.96 -4.12 9.72491e-017,
+				0.96 -3.5 5.92851e-017
+			]
+		}
+		normal Normal {
+			vector [
+				-1 -1.22465e-016 -1.22465e-016,
+				-1 -1.22465e-016 -1.22465e-016,
+				-1 -1.22465e-016 -1.22465e-016,
+				-1 -1.22465e-016 -1.22465e-016
+			]
+		}
+		coordIndex [
+			3,	0,	1,	-1,
+			2,	3,	1,	-1
+		]
+	}
+}
+Shape {
+	appearance DEF A102400832 Appearance {
+		material Material {
+			diffuseColor 0 0 0
+			specularColor 0 0 0
+			emissiveColor 0 0 0
+			ambientIntensity 0.8
+			shininess 0.2
+			transparency 0
+		}
+	}
+	geometry IndexedFaceSet {
+		creaseAngle 2
+		coord Coordinate {
+			point [
+				2.54 -2.54 1.93996e-016,
+				-1.17064e-016 -2.54 -1.17064e-016,
+				-4.35472e-016 -2.54 2.6,
+				2.54 -2.54 2.6
+			]
+		}
+		normal Normal {
+			vector [
+				-1.22465e-016 1 -6.12323e-017,
+				-1.22465e-016 1 -6.12323e-017,
+				-1.22465e-016 1 -6.12323e-017,
+				-1.22465e-016 1 -6.12323e-017
+			]
+		}
+		coordIndex [
+			3,	0,	1,	-1,
+			2,	3,	1,	-1
+		]
+	}
+}
+Shape {
+	appearance DEF A1952323948 Appearance {
+		material Material {
+			diffuseColor 0 0 0
+			specularColor 0 0 0
+			emissiveColor 0 0 0
+			ambientIntensity 0.8
+			shininess 0.2
+			transparency 0
+		}
+	}
+	geometry IndexedFaceSet {
+		creaseAngle 2
+		coord Coordinate {
+			point [
+				2.54 -5.08 3.49526e-016,
+				2.54 -2.54 1.93996e-016,
+				2.54 -2.54 2.6,
+				2.54 -5.08 2.6
+			]
+		}
+		normal Normal {
+			vector [
+				1 1.22465e-016 1.22465e-016,
+				1 1.22465e-016 1.22465e-016,
+				1 1.22465e-016 1.22465e-016,
+				1 1.22465e-016 1.22465e-016
+			]
+		}
+		coordIndex [
+			3,	0,	1,	-1,
+			2,	3,	1,	-1
+		]
+	}
+}
+Shape {
+	appearance DEF A1403482922 Appearance {
+		material Material {
+			diffuseColor 0 0 0
+			specularColor 0 0 0
+			emissiveColor 0 0 0
+			ambientIntensity 0.8
+			shininess 0.2
+			transparency 0
+		}
+	}
+	geometry IndexedFaceSet {
+		creaseAngle 2
+		coord Coordinate {
+			point [
+				3.84661e-017 -5.08 3.84661e-017,
+				2.54 -5.08 3.49526e-016,
+				2.54 -5.08 2.6,
+				-2.79942e-016 -5.08 2.6
+			]
+		}
+		normal Normal {
+			vector [
+				1.22465e-016 -1 6.12323e-017,
+				1.22465e-016 -1 6.12323e-017,
+				1.22465e-016 -1 6.12323e-017,
+				1.22465e-016 -1 6.12323e-017
+			]
+		}
+		coordIndex [
+			3,	0,	1,	-1,
+			2,	3,	1,	-1
+		]
+	}
+}
+Shape {
+	appearance USE A1952323948
+	geometry IndexedFaceSet {
+		creaseAngle 2
+		coord Coordinate {
+			point [
+				-1.17064e-016 -2.54 -1.17064e-016,
+				3.84661e-017 -5.08 3.84661e-017,
+				-2.79942e-016 -5.08 2.6,
+				-4.35472e-016 -2.54 2.6
+			]
+		}
+		normal Normal {
+			vector [
+				-1 -6.12323e-017 -1.22465e-016,
+				-1 -6.12323e-017 -1.22465e-016,
+				-1 -6.12323e-017 -1.22465e-016,
+				-1 -6.12323e-017 -1.22465e-016
+			]
+		}
+		coordIndex [
+			3,	0,	1,	-1,
+			2,	3,	1,	-1
+		]
+	}
+}
+Shape {
+	appearance DEF A2748900009 Appearance {
+		material Material {
+			diffuseColor 0.8 0.67451 0
+			specularColor 0.4 0.337255 0
+			emissiveColor 0.5 0.421569 0
+			ambientIntensity 0.8
+			shininess 0.2
+			transparency 0
+		}
+	}
+	geometry IndexedFaceSet {
+		creaseAngle 2
+		coord Coordinate {
+			point [
+				1.06 -3.6 -3,
+				1.48 -3.6 -3,
+				1.48 -4.02 -3,
+				1.06 -4.02 -3
+			]
+		}
+		normal Normal {
+			vector [
+				1.22465e-016 -6.12323e-017 -1,
+				1.22465e-016 -6.12323e-017 -1,
+				1.22465e-016 -6.12323e-017 -1,
+				1.22465e-016 -6.12323e-017 -1
+			]
+		}
+		coordIndex [
+			3,	0,	2,	-1,
+			1,	2,	0,	-1
+		]
+	}
+}
+Shape {
+	appearance DEF A3297516003 Appearance {
+		material Material {
+			diffuseColor 0 0 0
+			specularColor 0 0 0
+			emissiveColor 0 0 0
+			ambientIntensity 0.8
+			shininess 0.2
+			transparency 0
+		}
+	}
+	geometry IndexedFaceSet {
+		creaseAngle 2
+		coord Coordinate {
+			point [
+				-4.35472e-016 -2.54 2.6,
+				-2.79942e-016 -5.08 2.6,
+				2.54 -5.08 2.6,
+				2.54 -2.54 2.6,
+				0.96 -4.12 2.6,
+				0.96 -3.5 2.6,
+				1.58 -3.5 2.6,
+				1.58 -4.12 2.6
+			]
+		}
+		normal Normal {
+			vector [
+				-1.22465e-016 6.12323e-017 1,
+				-1.22465e-016 6.12323e-017 1,
+				-1.22465e-016 6.12323e-017 1,
+				-1.22465e-016 6.12323e-017 1,
+				-1.22465e-016 6.12323e-017 1,
+				-1.22465e-016 6.12323e-017 1,
+				-1.22465e-016 6.12323e-017 1,
+				-1.22465e-016 6.12323e-017 1
+			]
+		}
+		coordIndex [
+			3,	0,	5,	-1,
+			1,	2,	7,	-1,
+			7,	4,	1,	-1,
+			5,	6,	3,	-1,
+			5,	0,	4,	-1,
+			3,	6,	7,	-1,
+			0,	1,	4,	-1,
+			7,	2,	3,	-1
+		]
+	}
+}
+Shape {
+	appearance USE A3728983869
+	geometry IndexedFaceSet {
+		creaseAngle 2
+		coord Coordinate {
+			point [
+				0.96 -4.12 8.7,
+				0.96 -3.5 8.7,
+				0.96 -3.5 2.6,
+				0.96 -4.12 2.6
+			]
+		}
+		normal Normal {
+			vector [
+				-1 -1.22465e-016 -1.22465e-016,
+				-1 -1.22465e-016 -1.22465e-016,
+				-1 -1.22465e-016 -1.22465e-016,
+				-1 -1.22465e-016 -1.22465e-016
+			]
+		}
+		coordIndex [
+			3,	0,	1,	-1,
+			2,	3,	1,	-1
+		]
+	}
+}
+Shape {
+	appearance USE A3728983869
+	geometry IndexedFaceSet {
+		creaseAngle 2
+		coord Coordinate {
+			point [
+				0.96 -3.5 8.7,
+				1.58 -3.5 8.7,
+				1.58 -3.5 2.6,
+				0.96 -3.5 2.6
+			]
+		}
+		normal Normal {
+			vector [
+				-1.22465e-016 1 -6.12323e-017,
+				-1.22465e-016 1 -6.12323e-017,
+				-1.22465e-016 1 -6.12323e-017,
+				-1.22465e-016 1 -6.12323e-017
+			]
+		}
+		coordIndex [
+			3,	0,	1,	-1,
+			2,	3,	1,	-1
+		]
+	}
+}
+Shape {
+	appearance DEF A1540239433 Appearance {
+		material Material {
+			diffuseColor 0.8 0.67451 0
+			specularColor 0.4 0.337255 0
+			emissiveColor 0.5 0.421569 0
+			ambientIntensity 0.8
+			shininess 0.2
+			transparency 0
+		}
+	}
+	geometry IndexedFaceSet {
+		creaseAngle 2
+		coord Coordinate {
+			point [
+				1.58 -3.5 8.7,
+				1.58 -4.12 8.7,
+				1.58 -4.12 2.6,
+				1.58 -3.5 2.6
+			]
+		}
+		normal Normal {
+			vector [
+				1 1.22465e-016 1.22465e-016,
+				1 1.22465e-016 1.22465e-016,
+				1 1.22465e-016 1.22465e-016,
+				1 1.22465e-016 1.22465e-016
+			]
+		}
+		coordIndex [
+			3,	0,	1,	-1,
+			2,	3,	1,	-1
+		]
+	}
+}
+Shape {
+	appearance USE A2748900009
+	geometry IndexedFaceSet {
+		creaseAngle 2
+		coord Coordinate {
+			point [
+				1.58 -4.12 8.7,
+				0.96 -4.12 8.7,
+				0.96 -4.12 2.6,
+				1.58 -4.12 2.6
+			]
+		}
+		normal Normal {
+			vector [
+				1.22465e-016 -1 6.12323e-017,
+				1.22465e-016 -1 6.12323e-017,
+				1.22465e-016 -1 6.12323e-017,
+				1.22465e-016 -1 6.12323e-017
+			]
+		}
+		coordIndex [
+			3,	0,	1,	-1,
+			2,	3,	1,	-1
+		]
+	}
+}
+Shape {
+	appearance DEF A2501895748 Appearance {
+		material Material {
+			diffuseColor 0.8 0.67451 0
+			specularColor 0.4 0.337255 0
+			emissiveColor 0.5 0.421569 0
+			ambientIntensity 0.8
+			shininess 0.2
+			transparency 0
+		}
+	}
+	geometry IndexedFaceSet {
+		creaseAngle 2
+		coord Coordinate {
+			point [
+				1.48 -4.02 8.8,
+				1.48 -3.6 8.8,
+				1.06 -3.6 8.8,
+				1.06 -4.02 8.8
+			]
+		}
+		normal Normal {
+			vector [
+				-1.22465e-016 6.12323e-017 1,
+				-1.22465e-016 6.12323e-017 1,
+				-1.22465e-016 6.12323e-017 1,
+				-1.22465e-016 6.12323e-017 1
+			]
+		}
+		coordIndex [
+			3,	0,	2,	-1,
+			1,	2,	0,	-1
+		]
+	}
+}
+Shape {
+	appearance USE A2501895748
+	geometry IndexedFaceSet {
+		creaseAngle 2
+		coord Coordinate {
+			point [
+				0.96 -3.5 -2.9,
+				1.58 -3.5 -2.9,
+				1.48 -3.6 -3,
+				1.06 -3.6 -3
+			]
+		}
+		normal Normal {
+			vector [
+				2.2114e-016 0.707107 -0.707107,
+				2.2114e-016 0.707107 -0.707107,
+				2.2114e-016 0.707107 -0.707107,
+				2.2114e-016 0.707107 -0.707107
+			]
+		}
+		coordIndex [
+			3,	0,	2,	-1,
+			1,	2,	0,	-1
+		]
+	}
+}
+Shape {
+	appearance DEF A968675915 Appearance {
+		material Material {
+			diffuseColor 0.8 0.67451 0
+			specularColor 0.4 0.337255 0
+			emissiveColor 0.5 0.421569 0
+			ambientIntensity 0.8
+			shininess 0.2
+			transparency 0
+		}
+	}
+	geometry IndexedFaceSet {
+		creaseAngle 2
+		coord Coordinate {
+			point [
+				1.58 -3.5 -2.9,
+				1.58 -4.12 -2.9,
+				1.48 -4.02 -3,
+				1.48 -3.6 -3
+			]
+		}
+		normal Normal {
+			vector [
+				0.707107 4.32978e-017 -0.707107,
+				0.707107 4.32978e-017 -0.707107,
+				0.707107 4.32978e-017 -0.707107,
+				0.707107 4.32978e-017 -0.707107
+			]
+		}
+		coordIndex [
+			3,	0,	2,	-1,
+			1,	2,	0,	-1
+		]
+	}
+}
+Shape {
+	appearance USE A3728983869
+	geometry IndexedFaceSet {
+		creaseAngle 2
+		coord Coordinate {
+			point [
+				1.58 -4.12 -2.9,
+				0.96 -4.12 -2.9,
+				1.06 -4.02 -3,
+				1.48 -4.02 -3
+			]
+		}
+		normal Normal {
+			vector [
+				-4.79486e-017 -0.707107 -0.707107,
+				-4.79486e-017 -0.707107 -0.707107,
+				-4.79486e-017 -0.707107 -0.707107,
+				-4.79486e-017 -0.707107 -0.707107
+			]
+		}
+		coordIndex [
+			3,	0,	1,	-1,
+			2,	3,	1,	-1
+		]
+	}
+}
+Shape {
+	appearance USE A3324668245
+	geometry IndexedFaceSet {
+		creaseAngle 2
+		coord Coordinate {
+			point [
+				0.96 -4.12 -2.9,
+				0.96 -3.5 -2.9,
+				1.06 -3.6 -3,
+				1.06 -4.02 -3
+			]
+		}
+		normal Normal {
+			vector [
+				-0.707107 -1.29893e-016 -0.707107,
+				-0.707107 -1.29893e-016 -0.707107,
+				-0.707107 -1.29893e-016 -0.707107,
+				-0.707107 -1.29893e-016 -0.707107
+			]
+		}
+		coordIndex [
+			3,	0,	1,	-1,
+			2,	3,	1,	-1
+		]
+	}
+}
+Shape {
+	appearance DEF A3662763314 Appearance {
+		material Material {
+			diffuseColor 0.8 0.67451 0
+			specularColor 0.4 0.337255 0
+			emissiveColor 0.5 0.421569 0
+			ambientIntensity 0.8
+			shininess 0.2
+			transparency 0
+		}
+	}
+	geometry IndexedFaceSet {
+		creaseAngle 2
+		coord Coordinate {
+			point [
+				1.58 -4.12 8.7,
+				1.58 -3.5 8.7,
+				1.48 -3.6 8.8,
+				1.48 -4.02 8.8
+			]
+		}
+		normal Normal {
+			vector [
+				0.707107 1.29893e-016 0.707107,
+				0.707107 1.29893e-016 0.707107,
+				0.707107 1.29893e-016 0.707107,
+				0.707107 1.29893e-016 0.707107
+			]
+		}
+		coordIndex [
+			3,	0,	2,	-1,
+			1,	2,	0,	-1
+		]
+	}
+}
+Shape {
+	appearance DEF A1752313700 Appearance {
+		material Material {
+			diffuseColor 0.8 0.67451 0
+			specularColor 0.4 0.337255 0
+			emissiveColor 0.5 0.421569 0
+			ambientIntensity 0.8
+			shininess 0.2
+			transparency 0
+		}
+	}
+	geometry IndexedFaceSet {
+		creaseAngle 2
+		coord Coordinate {
+			point [
+				1.58 -3.5 8.7,
+				0.96 -3.5 8.7,
+				1.06 -3.6 8.8,
+				1.48 -3.6 8.8
+			]
+		}
+		normal Normal {
+			vector [
+				-1.73191e-016 0.707107 0.707107,
+				-1.73191e-016 0.707107 0.707107,
+				-1.73191e-016 0.707107 0.707107,
+				-1.73191e-016 0.707107 0.707107
+			]
+		}
+		coordIndex [
+			3,	0,	2,	-1,
+			1,	2,	0,	-1
+		]
+	}
+}
+Shape {
+	appearance USE A2748900009
+	geometry IndexedFaceSet {
+		creaseAngle 2
+		coord Coordinate {
+			point [
+				0.96 -3.5 8.7,
+				0.96 -4.12 8.7,
+				1.06 -4.02 8.8,
+				1.06 -3.6 8.8
+			]
+		}
+		normal Normal {
+			vector [
+				-0.707107 -4.32978e-017 0.707107,
+				-0.707107 -4.32978e-017 0.707107,
+				-0.707107 -4.32978e-017 0.707107,
+				-0.707107 -4.32978e-017 0.707107
+			]
+		}
+		coordIndex [
+			3,	0,	2,	-1,
+			1,	2,	0,	-1
+		]
+	}
+}
+Shape {
+	appearance DEF A313321705 Appearance {
+		material Material {
+			diffuseColor 0.8 0.67451 0
+			specularColor 0.4 0.337255 0
+			emissiveColor 0.5 0.421569 0
+			ambientIntensity 0.8
+			shininess 0.2
+			transparency 0
+		}
+	}
+	geometry IndexedFaceSet {
+		creaseAngle 2
+		coord Coordinate {
+			point [
+				0.96 -4.12 8.7,
+				1.58 -4.12 8.7,
+				1.48 -4.02 8.8,
+				1.06 -4.02 8.8
+			]
+		}
+		normal Normal {
+			vector [
+				0 -0.707107 0.707107,
+				0 -0.707107 0.707107,
+				0 -0.707107 0.707107,
+				0 -0.707107 0.707107
+			]
+		}
+		coordIndex [
+			3,	0,	2,	-1,
+			1,	2,	0,	-1
+		]
+	}
+}

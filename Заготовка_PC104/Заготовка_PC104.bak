@@ -1,0 +1,93 @@
+EESchema Schematic File Version 4
+LIBS:Заготовка_PC104-cache
+EELAYER 26 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L MOTOR:Заготовка_PC104 X1
+U 1 1 5BD79802
+P 4150 2550
+F 0 "X1" H 4625 2815 50  0000 C CNN
+F 1 "Заготовка_PC104" H 4625 2724 50  0000 C CNN
+F 2 "MOTOR_ICO:Заготовка_PC104" H 5000 2550 50  0001 C CNN
+F 3 "" H 5000 2550 50  0001 C CNN
+	1    4150 2550
+	1    0    0    -1  
+$EndComp
+Text GLabel 5250 2750 2    50   Input ~ 0
+GND
+Wire Wire Line
+	5100 2750 5200 2750
+Wire Wire Line
+	5100 2950 5200 2950
+Wire Wire Line
+	5200 2950 5200 2750
+Connection ~ 5200 2750
+Wire Wire Line
+	5200 2750 5250 2750
+Wire Wire Line
+	5100 3150 5200 3150
+Wire Wire Line
+	5200 3150 5200 2950
+Connection ~ 5200 2950
+Wire Wire Line
+	5100 3350 5200 3350
+Wire Wire Line
+	5200 3350 5200 3150
+Connection ~ 5200 3150
+Text GLabel 4000 2750 0    50   Input ~ 0
++3.3
+Text GLabel 4000 3150 0    50   Input ~ 0
++5
+Wire Wire Line
+	4000 3150 4050 3150
+Wire Wire Line
+	4150 2750 4050 2750
+Wire Wire Line
+	4150 2950 4050 2950
+Wire Wire Line
+	4050 2950 4050 2750
+Connection ~ 4050 2750
+Wire Wire Line
+	4050 2750 4000 2750
+Wire Wire Line
+	4150 3350 4050 3350
+Wire Wire Line
+	4050 3350 4050 3150
+Connection ~ 4050 3150
+Wire Wire Line
+	4050 3150 4150 3150
+Text GLabel 4000 3550 0    50   Input ~ 0
++24
+Wire Wire Line
+	4000 3550 4050 3550
+Wire Wire Line
+	4150 3750 4050 3750
+Wire Wire Line
+	4050 3750 4050 3550
+Connection ~ 4050 3550
+Wire Wire Line
+	4050 3550 4150 3550
+Text GLabel 5250 3550 2    50   Input ~ 0
+0В
+Wire Wire Line
+	5100 3550 5200 3550
+Wire Wire Line
+	5100 3750 5200 3750
+Wire Wire Line
+	5200 3750 5200 3550
+Connection ~ 5200 3550
+Wire Wire Line
+	5200 3550 5250 3550
+$EndSCHEMATC
