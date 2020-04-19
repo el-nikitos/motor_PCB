@@ -1,4 +1,4 @@
-(module Вилка_СНП346-6ВП21-1-В (layer F.Cu) (tedit 5E26D2CB)
+(module Вилка_СНП346-6ВП21-1-В (layer F.Cu) (tedit 5E989538)
   (fp_text reference XP1 (at 0.35 -3.2) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.2)))
   )
@@ -19,4 +19,9 @@
   (pad 5 thru_hole rect (at 0 10.16) (size 2 2) (drill 1.2) (layers *.Cu *.Mask))
   (pad 3 thru_hole rect (at 0 5.08) (size 2 2) (drill 1.2) (layers *.Cu *.Mask))
   (pad 6 thru_hole rect (at 0 12.7) (size 2 2) (drill 1.2) (layers *.Cu *.Mask))
+  (model ${MOTOR_3D}/SNP346-6VP21-1.stp
+    (offset (xyz -1.25 -1.25 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
