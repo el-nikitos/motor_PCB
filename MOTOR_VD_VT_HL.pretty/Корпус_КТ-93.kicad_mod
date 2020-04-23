@@ -1,4 +1,4 @@
-(module Корпус_КТ-93 (layer F.Cu) (tedit 5C0788D6)
+(module Корпус_КТ-93 (layer F.Cu) (tedit 5EA06C34)
   (fp_text reference VD1 (at 2 -11.5) (layer F.SilkS)
     (effects (font (size 2 1.6) (thickness 0.3)))
   )
@@ -17,7 +17,7 @@
   (pad 1 smd rect (at 2 -6) (size 7.5 7) (layers F.Cu F.Paste F.Mask))
   (pad 3 smd rect (at 0 0) (size 3 4) (layers F.Cu F.Paste F.Mask))
   (model ${MOTOR_3D}/KT-93.stp
-    (at (xyz 0 0 0))
+    (offset (xyz 0.15 0.5 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
